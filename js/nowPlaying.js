@@ -160,6 +160,7 @@ function initSMO() {
 
     LogUtils.write("(initSMO) Carga de SMO", LogUtils.LEVEL_INFO);
     document.body.style.opacity = 0;
+    document.body.requestFullscreen()
     defaultVars();
 
     //Inicializo el SMO y registramos los callbacks
