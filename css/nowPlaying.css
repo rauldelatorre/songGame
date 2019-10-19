@@ -118,7 +118,7 @@ body{
 	margin-top: 0.1em;
 	margin-bottom: 0.3em;
 	font-family: 'Helvetica 35 Thin';
-	font-size: 8vh;
+	font-size: 6vh;
 	color: white;
 }
 
@@ -126,7 +126,7 @@ body{
 	margin-top: 0.1em;
 	margin-bottom: 0.3em;
 	font-family: 'Helvetica 35 Thin';
-	font-size: 8vh;
+	font-size: 6vh;
 	color: white;
 }
 
@@ -140,7 +140,7 @@ div span{
 #song{
 	margin-left:0.2em;
 	font-family: 'Helvetica 35 Thin';
-	font-size: 8vh;
+	font-size: 6vh;
   color: white;
   font-weight: bold;
 }
@@ -148,7 +148,7 @@ div span{
 #song1{
 	margin-left:0.2em;
 	font-family: 'Helvetica 35 Thin';
-	font-size: 8vh;
+	font-size: 6vh;
   color: white;
   font-weight: bold;
 }
